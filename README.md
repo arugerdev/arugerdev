@@ -1,5 +1,5 @@
 # Hi 👋! My name is Álvaro Ruger
-[![trophy](https://github-profile-trophy.vercel.app/?username=arugerdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=arugerdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 👋 Hi, I’m ArugerDev
