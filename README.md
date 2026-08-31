@@ -1,52 +1,106 @@
-# Hi 👋! My name is Álvaro Ruger
-[![trophy](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=arugerdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<h1 align="center">Hi 👋 I'm Alvaro Ruger</h1>
 
-
-- 👋 Hi, I’m ArugerDev
-- 🕹️ A videogames developer
-- 🌐 A web developer
-- 📓 I want learn so more!
-
-### Contact with me in: 
-<p align="left">
-<a href="https://twitter.com/arugerdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arugerdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aruger" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arugerdev" height="30" width="40" /></a>
-<a href="https://aruger.dev/" target="_blank">My website</a>
+<p align="center">
+  <a href="https://github.com/arugerdev">
+    <img src="https://komarev.com/ghpvc/?username=arugerdev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="arugerdev profile views" />
+  </a>
 </p>
 
-### Stats
+<h3 align="center">Full-Stack Developer · Software · Hardware · Automation</h3>
 
-<p><img src='https://github-readme-stats-sigma-five.vercel.app/api?username=arugerdev&show_icons=true&locale=en&theme=dark' alt='arugerdev'></img></p>
-<p><img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=arugerdev&show_icons=true&locale=en&layout=compact&theme=dark' alt='arugerdev'></img></p>
+<p align="center">
+  I build web applications, backend systems, IoT solutions and automation tools.
+</p>
 
-## Languages and more
+<br>
 
-<div style='display:flex; flex-direction:row;'>
-<a href='https://es.wikipedia.org/wiki/HTML' target='_blank_'>
-<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='html icon'/>
-</a>
-<a href='https://es.wikipedia.org/wiki/CSS' target='_blank_'>
-<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='css3 icon'/>
-</a>
-<a href='https://es.wikipedia.org/wiki/JavaScript' target='_blank_'>
-<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript icon'/>
-</a>
-<a href='https://es.reactjs.org/' target='_blank_'>
-<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='react icon'/>
-</a>
-<a href='https://es.wikipedia.org/wiki/C_Sharp' target='_blank_'>
-<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' alt='csharp icon'/>
-</a>                                                                                                                                          
-<a href='https://unity.com/es' target='_blank_'>
-<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg' alt='unity icon'/>
-</a>
-<a href='https://yarnpkg.com/' target='_blank_'>
-<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg' alt='yarn icon'/>
-</a>                                                                                                                                    
-<a href='https://code.visualstudio.com/' target='_blank_'>
-<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' alt='vscode icon'/>
-</a>
-<a href='https://www.npmjs.com/' target='_blank_'>
-<img width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg' alt='npm icon'/>
-</a>
-<div>
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="TypeScript" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" alt="React" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="80" height="80" alt="C++" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="80" height="80" alt="C#" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="80" height="80" alt="Java" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python" />
+</div>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" height="80" alt="MySQL" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="80" height="80" alt="REST API" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="80" height="80" alt="Sass" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="80" height="80" alt="Nginx" />
+  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="80" height="80" alt="Raspberry Pi" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" alt="Docker" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" alt="GitHub" />
+</div>
+
+<br>
+
+<h2 align="center">🚀 Last Project</h2>
+
+<table align="center">
+  <tr>
+    <td width="45%" align="center">
+      <img
+        width="300"
+        alt="Rud1"
+        src="https://github.com/user-attachments/assets/59d8d1a8-b067-41da-bb90-0e0e1e022c72"
+      />
+    </td>
+
+<td width="55%" align="left">
+  <h3>Rud1 — Industrial IoT Gateway</h3>
+
+  <p>
+    A custom IoT gateway designed to connect industrial equipment,
+    PLCs and machines to modern network and cloud infrastructure.
+  </p>
+
+  <p>
+    <b>Hardware</b> · <b>IoT</b> · <b>VPN</b> · <b>Linux</b> · <b>Cloud</b> · <b>Automation</b>
+  </p>
+
+  <p>
+    Rud1 combines custom hardware, Linux-based infrastructure and
+    secure remote connectivity to provide device management,
+    industrial data collection and remote access.
+  </p>
+</td>
+
+
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">💻 What I Do</h2>
+
+<div align="center">
+
+|                                 |                                                       |
+| ------------------------------- | ----------------------------------------------------- |
+| 🌐 **Full-Stack Development**   | Modern web applications & APIs                        |
+| ⚙️ **Backend & Infrastructure** | Linux, servers, APIs & databases                      |
+| 🤖 **IoT & Automation**         | Industrial devices, PLCs & data collection            |
+| 🔌 **Hardware**                 | Embedded systems, Raspberry Pi, Arduino & electronics |
+| 🧠 **AI**                       | AI-assisted applications & automation                 |
+
+</div>
+
+<br>
+
+<h2 align="center">📫 Contact</h2>
+
+<p align="center">
+  <a href="mailto:aruger.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aruger.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/arugerdev">
+    <img src="https://img.shields.io/badge/GitHub-arugerdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/882050740149952572">
+    <img src="https://img.shields.io/badge/Discord-aruger-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
