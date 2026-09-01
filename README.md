@@ -43,15 +43,17 @@
 <table align="center">
   <tr>
     <td width="45%" align="center">
-      <img
-        width="300"
-        alt="Rud1"
-        src="https://github.com/user-attachments/assets/59d8d1a8-b067-41da-bb90-0e0e1e022c72"
-      />
+      <a href="https://rud1.es">
+        <img
+          width="300"
+          alt="Rud1"
+          src="https://github.com/user-attachments/assets/59d8d1a8-b067-41da-bb90-0e0e1e022c72"
+        />
+      </a>
     </td>
 
 <td width="55%" align="left">
-  <h3>Rud1 — Industrial IoT Gateway</h3>
+  <h3><a href="https://rud1.es">Rud1</a> — Industrial IoT Gateway</h3>
 
   <p>
     A custom IoT gateway designed to connect industrial equipment,
