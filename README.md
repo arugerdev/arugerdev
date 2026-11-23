@@ -16,26 +16,11 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" alt="JavaScript" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="TypeScript" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" alt="React" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="80" height="80" alt="C++" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="80" height="80" alt="C#" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="80" height="80" alt="Java" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python" />
-</div>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" height="80" alt="MySQL" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="80" height="80" alt="REST API" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="80" height="80" alt="Sass" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="80" height="80" alt="Nginx" />
-  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="80" height="80" alt="Raspberry Pi" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" alt="Docker" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" alt="GitHub" />
-</div>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,cpp,cs,java,py,mysql,postman,sass,nginx,raspberrypi,docker,github&perline=7" width="600" alt="JavaScript, TypeScript, React, C++, C#, Java, Python, MySQL, REST API, Sass, Nginx, Raspberry Pi, Docker, GitHub" />
+  </a>
+</p>
 <br>
 
 <h2 align="center">🚀 Last Project</h2>
